@@ -1,0 +1,17 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+hr{
+	border-top: 2px solid #bcbbbb;
+}
+.margin-top{
+	margin-top: 20px
+}
+.g-light{
+	color: #bcbbbb;
+}
+.big-font{
+    font-size: 45px;
+}
